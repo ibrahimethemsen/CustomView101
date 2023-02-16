@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DrawHeart">
+        <attr name="secondColor" format="color"/>
+        <attr name="finishColor" format="color"/>
+    </declare-styleable>
+</resources>

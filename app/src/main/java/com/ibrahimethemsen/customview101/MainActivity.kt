@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.avatarView.setAvatar(Avatar(avatarImage = R.drawable.ic_launcher_foreground))
+        //binding.avatarView.setAvatar(Avatar(avatarImage = R.drawable.ic_launcher_foreground))
 
     }
 }
