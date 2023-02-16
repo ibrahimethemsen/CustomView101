@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CustomView101</string>
+    <string name="avatar_name_surname">%s%s</string>
 </resources>
